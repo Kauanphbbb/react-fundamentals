@@ -1,10 +1,6 @@
-
 # Fundamentos do React
 
 Nesse repositório estão os arquivos gerados durante as aulas para entender os conceitos do React.
-
-
-
 
 ## Assuntos abordados
 
@@ -17,4 +13,4 @@ Nesse repositório estão os arquivos gerados durante as aulas para entender os 
 - Styled components
 - Theming (criando theming com styled components)
 - Manipulando lifecycle com useEffect()
-
+- Class components
